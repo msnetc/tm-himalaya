@@ -1,4 +1,5 @@
 package cn.mobilemd.tmhimalaya.datamodel;
+
 public class MemberDO   {
 
     private Long uid;
